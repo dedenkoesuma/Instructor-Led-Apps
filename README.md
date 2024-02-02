@@ -52,11 +52,12 @@ The primary purpose of this application is to provide a centralized platform for
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Laravel](https://laravel.com/)
+- [jQuery](https://jquery.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Express.js](https://expressjs.com/)
+- [Golang](https://golang.org/)
 
 ## :white_check_mark: Requirements ##
 
