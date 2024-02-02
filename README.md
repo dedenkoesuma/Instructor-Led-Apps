@@ -40,7 +40,7 @@
 
 ## :dart: About ##
 
-Describe your project
+The primary purpose of this application is to provide a centralized platform for instructors to efficiently manage attendance records, input questions from participants, and access schedules for their sessions. The application aims to streamline administrative tasks associated with instructor-led training programs
 
 ## :sparkles: Features ##
 
@@ -69,13 +69,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/dedenkoesuma/Instructor-Led-Apps
 
 # Access
-$ cd {{repository}}
+$ code . 
 
 # Install dependencies
 $ yarn
 
 # Run the project
-$ yarn start
+$ go run main.go/go run .
 
 # The server will initialize in the <http://localhost:8080>
 ```
