@@ -85,7 +85,7 @@ $ go run main.go/go run .
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/dedenkoesuma" target="_blank">{{author}}</a>
+Made with :heart: by <a href="https://github.com/dedenkoesuma" target="_blank">CodeCrafters</a>
 
 &#xa0;
 
