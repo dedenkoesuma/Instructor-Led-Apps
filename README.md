@@ -9,10 +9,10 @@
 <h1 align="center">Instructor_Led_Apps</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{github}}/{{repository}}?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{github}}/{{repository}}?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{github}}/{{repository}}?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/{{github}}/{{repository}}?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dedenkoesuma/Instructor-Led-Apps?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dedenkoesuma/Instructor-Led-Apps?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dedenkoesuma/Instructor-Led-Apps?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/dedenkoesuma/Instructor-Led-Apps?color=56BEB8">
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{github}}/{{repository}}?color=56BEB8" /> -->
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{github}}/{{repository}}?color=56BEB8" /> -->
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{github}}/{{repository}}?color=56BEB8" /> -->
@@ -70,9 +70,6 @@ $ git clone https://github.com/dedenkoesuma/Instructor-Led-Apps
 
 # Access
 $ code . 
-
-# Install dependencies
-$ yarn
 
 # Run the project
 $ go run main.go/go run .
