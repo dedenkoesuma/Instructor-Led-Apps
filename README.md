@@ -6,7 +6,7 @@
   <!-- <a href="https://{{app_url}}.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">{{Instructor_Led_Apps}}</h1>
+<h1 align="center">Instructor_Led_Apps</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{github}}/{{repository}}?color=56BEB8">
@@ -33,7 +33,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{github}}" target="_blank">Author</a>
+  <a href="https://github.com/dedenkoesuma" target="_blank">Author</a>
 </p>
 
 <br>
@@ -66,7 +66,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{github}}/{{repository}}
+$ git clone https://github.com/dedenkoesuma/Instructor-Led-Apps
 
 # Access
 $ cd {{repository}}
@@ -77,7 +77,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:8080>
 ```
 
 ## :memo: License ##
@@ -85,7 +85,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/{{github}}" target="_blank">{{author}}</a>
+Made with :heart: by <a href="https://github.com/dedenkoesuma" target="_blank">{{author}}</a>
 
 &#xa0;
 
